@@ -44,6 +44,7 @@ DEEPSEEK_API_KEY=your_deepseek_api_key
 
 - `langchain-01-basic.ipynb`: LangChain基础用法，包括模型封装、Prompt模板、结构化输出和Function Calling
 - `langchain-02-数据连接与流程编排.ipynb`: 数据连接与流程编排
+- `langchain-03-langGraph.ipynb`: LangGraph`
 - 更多内容持续更新中...
 
 ## 核心内容
