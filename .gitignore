@@ -69,3 +69,22 @@ vectorstore/
 
 # WikiTableQuestions数据集相关
 data/WikiTableQuestions*/
+
+# Agent相关文件
+*_agent_executor/
+agent_cache/
+
+# 模型缓存文件
+*_model_cache/
+.cache/
+
+# 日志和临时文件
+logs/
+tmp/
+temp/
+
+# 特定于通义千问等模型的文件
+dashscope_cache/
+
+# Jupyter相关
+jupyter_execute/
